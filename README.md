@@ -1,0 +1,2 @@
+# hypercontent-trends
+Primer repositorio
