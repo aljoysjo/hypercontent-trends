@@ -1,0 +1,6 @@
+twscrape==v0.14.9
+pytrends==4.10.0
+pandas
+sentence-transformers
+playwright
+requests
